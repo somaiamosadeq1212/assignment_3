@@ -12,9 +12,9 @@ https://github.com/somaiamosadeq1212/assignment_3
 ## Screenshots
 
 ### Home Page
-![Home Screenshot](./screenshots/home.PNG)
+![Home Screenshot](https://github.com/somaiamosadeq1212/assignment_3/raw/main/screenshots/home.PNG)
 ### Search / Filter Results
-![Results Screenshot](./screenshots/results.PNG)
+![Results Screenshot](https://github.com/somaiamosadeq1212/assignment_3/raw/main/screenshots/results.PNG)
 
 ## Features
 
