@@ -55,47 +55,53 @@ To improve reliability and performance, this project uses API endpoints with the
 
 ## How to Run the Project Locally
 ### Clone the repository:
+
   ```bash
   git clone https://github.com/somaiamosadeq1212/assignment_3.git
   ```
 
 ### Navigate to the project directory:
+
   ```bash
   cd assignment_3
   ```
 
 ### Install dependencies:
+
   ```bash
   npm install
   ```
 
 ### Start the development server:
+
   ```bash
   npm run dev
   ```
 
 ### Open the app in your browser:
+
   ```bash
   http://localhost:5173
   ```
 
 ### Project Structure
+
   ```bash
-    assignment_3/
-    ├─ src/
-    │  ├─ components/
-    │  │  ├─ SearchBar.jsx
-    │  │  ├─ CountryList.jsx
-    │  │  ├─ CountryCard.jsx
-    │  │  └─ SkeletonGrid.jsx
-    │   ├─ App.jsx
-    │  └─ main.jsx
-    ├─ screenshots/
-    │  ├─ home.png
-    │  └─ results.png
-    ├─ package.json
-    ├─ README.md
-    └─ vite.config.js
+  assignment_3/
+  ├─ src/
+  │  ├─ components/
+  │  │  ├─ SearchBar.jsx
+  │  │  ├─ CountryList.jsx
+  │  │  ├─ CountryCard.jsx
+  │  │  └─ SkeletonGrid.jsx
+  │   ├─ App.jsx
+  │  └─ main.jsx
+  ├─ screenshots/
+  │  ├─ home.png
+  │  └─ results.png
+  ├─ package.json
+  ├─ README.md
+  └─ vite.config.js
   ```
 
 ### Assignment Checklist
